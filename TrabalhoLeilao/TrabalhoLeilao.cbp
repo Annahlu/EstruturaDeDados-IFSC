@@ -34,6 +34,7 @@
 		<Unit filename="loja.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="loja.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>

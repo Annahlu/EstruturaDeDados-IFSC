@@ -1,11 +1,3 @@
-/**
- * Como essas structs vao ser incluidas em outros arquivos, voce precisa
- * criar um #ifndef para evitar multipla definicao das structs no seu projeto
- */
-
-#ifndef _LOJA_
-#define _LOJA_
-
 typedef struct lance{
 	char nome[20];
 	int valor;
@@ -23,8 +15,8 @@ typedef struct prod{
 }Produto;
 
 typedef struct{
-	Produto *ini,*fim;
-}Listagem;
+	Produto *inicio,*fim;
+}Lista;
 
 typedef struct elem{
   char nome[20];
@@ -34,6 +26,6 @@ typedef struct elem{
 
 typedef struct Fila{
   elem_fila *inic,*fim;
-}Fila;  
+}Fila;
 
-#endif
+
