@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1637175648 source:c:\users\analu\usp\ed\estruturadedados-ifsc\trabed\main.c
+	<stdio.h>
+	<stdlib.h>
+	"loja.h"
+
+1637174656 source:c:\users\analu\usp\ed\estruturadedados-ifsc\trabed\loja.c
+	<stdlib.h>
+	<string.h>
+	"loja.h"
+
+1637174259 c:\users\analu\usp\ed\estruturadedados-ifsc\trabed\loja.h
+

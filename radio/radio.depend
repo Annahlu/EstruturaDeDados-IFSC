@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1633517502 source:c:\users\analu\usp\ed\estruturadedados-ifsc\radio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"radio.h"
+
+1633517509 c:\users\analu\usp\ed\estruturadedados-ifsc\radio\radio.h
+
+1633521478 source:c:\users\analu\usp\ed\estruturadedados-ifsc\radio\radio.c
+	<stdlib.h>
+	<stdio.h>
+	"radio.h"
+	<string.h>
+

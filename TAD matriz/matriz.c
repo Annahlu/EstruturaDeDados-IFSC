@@ -12,7 +12,7 @@ Matriz* cria (int m, int n) {
   Matriz* mat = (Matriz*) malloc(sizeof(Matriz));
   if (mat == NULL) {
     printf("Memória insuficiente!\n");
-    exit(1);
+    exit(,1);
   }
   mat->lin = m;
   mat->col = n;
